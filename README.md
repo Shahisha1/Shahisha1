@@ -94,7 +94,6 @@ Created as coursework at Pokhara University.
 <br />
 
 <div align="center">
-  <p><em>Made through curiosity, persistence, and a lot of trial and error.</em></p>
   <a href="https://github.com/Shahisha1?tab=repositories">More experiments and projects ↗</a>
 </div>
 
