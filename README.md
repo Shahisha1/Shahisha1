@@ -1,100 +1,83 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071510,45:18382A,100:507A62&height=230&section=header&text=Shahisha%20Adhikari&fontSize=48&fontColor=F1EBDD&fontAlignY=40&desc=STUDENT%20DEVELOPER%20%2F%20NEPAL&descSize=13&descColor=C0D8C4&descAlignY=62" width="100%" alt="Shahisha Adhikari" />
+ <div align="center">
 
-  <p><em>Curiosity into code. Ideas into things.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30232B,50:754354,100:E8A0B5&height=210&section=header&text=Shahisha%20Adhikari&fontSize=44&fontColor=F6DDE3&fontAlignY=40&desc=STUDENT%20DEVELOPER%20%2F%20NEPAL&descSize=13&descColor=F3EBDD&descAlignY=62" width="100%" alt="Shahisha Adhikari" />
 
-  <p>
-    <a href="https://github.com/Shahisha1?tab=repositories">Explore my work ↗</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/Shahisha1">GitHub profile ↗</a>
-  </p>
+  *Curiosity into code. Ideas into things.*
+
+  [Explore my projects](https://github.com/Shahisha1?tab=repositories) · [GitHub profile](https://github.com/Shahisha1)
+
 </div>
-
-<br />
-
-## About
-
-I'm Shahisha, a student developer from Nepal with an interest in software, web development, and digital experiences that feel as good to use as they are to build.
-
-I learn by making things — exploring new tools, working through problems, and turning random ideas into projects I can actually use.
-
-Currently learning, experimenting, and figuring things out one project at a time.
-
-<br />
-
-## What I work with
-
-**Languages & web**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-18382A?style=for-the-badge&logo=html5&logoColor=E5C58A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-18382A?style=for-the-badge&logo=css3&logoColor=91C49C" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-18382A?style=for-the-badge&logo=javascript&logoColor=E5C58A" alt="JavaScript" />
-</p>
-
-**Tools & platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-18382A?style=for-the-badge&logo=git&logoColor=E5C58A" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-18382A?style=for-the-badge&logo=github&logoColor=F1EBDD" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Spicetify-18382A?style=for-the-badge&logo=spotify&logoColor=91C49C" alt="Spicetify" />
-</p>
-<br />
-
-<br />
-
-## Selected work
-
-Projects driven by different interests, connected by the same process: build, experiment, improve.
-
-<br />
-
-### [01 / Luma Lyrics ↗](https://github.com/Shahisha1/Luma-Lyrics)
-
-A Spicetify extension that brings synced lyrics and customizable presentation to the listening experience. Built around making music feel more immersive, with flexible display modes and styling inspired by the music itself.
-
-`MUSIC` &nbsp; `SPICETIFY` &nbsp; `CUSTOMIZATION`
-
-<br />
-
-### [02 / progLog ↗](https://github.com/Shahisha1/ProgLog)
-
-**Every game leaves a story — keep yours.**
-
-A personal gaming journal for collecting games, tracking progress, recording sessions, earning achievements, and looking back at the journey. More than a library: a place to keep the story behind every game.
-
-`GAMING` &nbsp; `JOURNAL` &nbsp; `FIREBASE`
-
-<br />
-
-### [03 / TrekNepal ↗](https://github.com/Shahisha1/TrekNepal)
-
-A trekking route planner focused on the Himalayas. Explore trails across Nepal, compare routes, browse galleries, save favourites, and find your next destination.
-
-Created as coursework at Pokhara University.
-
-`TRAVEL` &nbsp; `NEPAL` &nbsp; `ROUTE PLANNING`
-
-<br />
 
 ---
 
-<br />
+## About
 
-## The activity
+I'm Shahisha, a student developer from Nepal interested in software, web development, and digital experiences.
+
+I learn by building things — experimenting with ideas, exploring tools, and figuring out how to turn concepts into projects that work. My interests range from web development to music customization and personal gaming projects.
+
+Currently learning, building, and improving one project at a time.
+
+## Technologies & tools
+
+**Languages and web**
+
+![HTML5](https://img.shields.io/badge/HTML5-30232B?style=flat&logo=html5&logoColor=E8A0B5)
+![CSS3](https://img.shields.io/badge/CSS3-30232B?style=flat&logo=css3&logoColor=E8A0B5)
+![JavaScript](https://img.shields.io/badge/JavaScript-30232B?style=flat&logo=javascript&logoColor=F3EBDD)
+
+**Tools and platforms**
+
+![Git](https://img.shields.io/badge/Git-30232B?style=flat&logo=git&logoColor=E8A0B5)
+![GitHub](https://img.shields.io/badge/GitHub-30232B?style=flat&logo=github&logoColor=F6DDE3)
+![Spicetify](https://img.shields.io/badge/Spicetify-30232B?style=flat&logo=spotify&logoColor=E8A0B5)
+
+---
+
+## Selected projects
+
+A few things I've been working on, each exploring a different interest.
+
+### [01 — Luma Lyrics](https://github.com/Shahisha1/Luma-Lyrics)
+
+A Spicetify extension focused on making lyrics feel like part of the listening experience. Features include immersive lyric presentation, artwork-inspired backgrounds, optional desktop colors, and estimated word animation.
+
+`SPICETIFY` · `MUSIC` · `JAVASCRIPT`
+
+### [02 — progLog](https://github.com/Shahisha1/ProgLog)
+
+**Every game leaves a story. Keep yours.**
+
+A personal gaming journal and achievement tracker for collecting games, tracking progress, recording play sessions, and keeping a history of your gaming journey.
+
+`GAMING` · `JOURNAL` · `FIREBASE`
+
+### [03 — TrekNepal](https://github.com/Shahisha1/TrekNepal)
+
+A trekking-focused project built around exploring Nepal's trails and destinations. Created as coursework at Pokhara University.
+
+`NEPAL` · `TRAVEL` · `WEB DEVELOPMENT`
+
+---
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahisha1&show_icons=true&hide_border=true&bg_color=071510&title_color=91C49C&text_color=CFDCCF&icon_color=91C49C&ring_color=91C49C" height="165" alt="GitHub statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahisha1&show_icons=true&hide_border=true&bg_color=30232B&title_color=E8A0B5&text_color=F3EBDD&icon_color=E8A0B5&ring_color=B94F6A" height="165" alt="GitHub statistics" />
+
 </div>
 
 <div align="center">
+
   <img src="https://raw.githubusercontent.com/Shahisha1/Shahisha1/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity" />
-</div>
 
-<br />
+</div>
 
 <div align="center">
-  <a href="https://github.com/Shahisha1?tab=repositories">More experiments and projects ↗</a>
+
+  [More projects and experiments ↗](https://github.com/Shahisha1?tab=repositories)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071510,45:18382A,100:507A62&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A0B5,50:754354,100:30232B&height=100&section=footer" width="100%" alt="" />
