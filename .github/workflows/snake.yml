@@ -1,9 +1,8 @@
-
 name: Generate Pink Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,7 +14,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Generate contribution snake
@@ -26,8 +24,8 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23E8A0B5&color_dots=%23F6DDE3,%23E8A0B5,%23D17F99,%23B94F6A,%23754354
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23E8A0B5&color_dots=%2330232B,%23754354,%23F6DDE3,%23E8A0B5,%23B94F6A
 
-      - name: Publish generated SVG files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish generated files
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
